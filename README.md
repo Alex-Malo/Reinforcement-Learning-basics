@@ -7,7 +7,7 @@ This repository compiles three Jupyter notebooks and an illustrated 20‑page P
 .
 ├── Dynamic_programming.ipynb         # Policy / Value iteration on Gridworld
 ├── td_control.ipynb                  # SARSA & Q‑learning on Cliff‑Walking
-├── multi_armed_bandits.ipynb         # Linear FA & Bandits 
+├── multi_armed_bandits.ipynb         # MultiArmed Bandits problem using UCB algorithm, exploring different Confidence Parameters.   
 └── Reinforcement_Learning_Notes.pdf  # 20‑page illustrated theory summary
 ````
 
